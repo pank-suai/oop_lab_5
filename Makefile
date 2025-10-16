@@ -1,6 +1,6 @@
 TARGET = main
 CXX = g++
-CXXFLAGS = -std=c++23 -Wall -Wextra -g
+CXXFLAGS = -std=c++23 -Wall -Wextra -g -Iinclude
 
 SRC_DIR = src
 BUILD_DIR = build
