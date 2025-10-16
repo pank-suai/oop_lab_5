@@ -15,7 +15,7 @@
 Иерархия классов представлена на рисунке 
 
 #figure(
-    image("images/task.png"),
+    image("images/task.png", width: 70%),
     caption: "Иерархия классов"
 )
 
